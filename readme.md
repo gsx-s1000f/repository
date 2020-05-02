@@ -1,1 +1,1 @@
-[Wiki](https://github.com/gsx-s1000f/repository/wiki)
+現状 [Wiki](https://github.com/gsx-s1000f/repository/wiki) のみ。
